@@ -7,7 +7,7 @@
 	<groupId>com.dxbair.services</groupId>
 	<artifactId>flight-booking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>demo</name>
 	<description>Flight Booking Service for Dubai Air</description>
